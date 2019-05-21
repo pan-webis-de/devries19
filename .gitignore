@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.vscode
+
+pan19
+data
+models
+answers
+outputs
+
+udpipe
+uuparser
+ud-treebanks-v2.3
+bilstm-aux
+ELMoForManyLangs
